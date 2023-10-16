@@ -1,0 +1,15 @@
+{
+  "name": "base-djsv14",
+  "version": "1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "@eukahh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "glob": "^10.3.10"
+  }
+}
